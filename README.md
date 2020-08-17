@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning ReactJS / Wordpress / Python
+- 👯 I’m looking to collaborate on web projects 
+- 📫 How to reach me: jesus.cortes.code@gmail.com
+- ⚡ Fun fact: Also like drawing a lot
+
 <!--
 **jebusdoodles/jebusdoodles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
