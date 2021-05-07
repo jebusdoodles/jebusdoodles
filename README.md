@@ -5,12 +5,7 @@ I'm a Frontend Developer based in 🇲🇽 (Mexico) specializing in building (an
 
 Skills: React js / Python / Wordpress / Sass / D3js 
 
-- 🚀 I’m currently learning React Native and Swift  
-
-
-[<img src='https://cdn.jsdelivr.net/npm/jam-icons@2.0.0/svg/cloud.svg' alt='website' height='40'>](https://jebusdoodles.github.io/) [<img src='https://cdn.jsdelivr.net/npm/jam-icons@2.0.0/svg/twitter.svg' alt='twitter' height='40'>](https://twitter.com/JebusDoodles)  [<img src='https://cdn.jsdelivr.net/npm/jam-icons@2.0.0/svg/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jebusdoodles/)   
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+- 🚀 I’m currently learning React Native and Kotlin 
 
 
 <!--
