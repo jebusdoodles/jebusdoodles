@@ -2,9 +2,9 @@
 
 I'm a Frontend Developer based in 🇲🇽 (Mexico) specializing in building (and occasionally designing) websites. I'm currently avaiable for web development projects.
 
-Skills: React js / Python / Wordpress / Sass / D3js 
+Skills: React js / Python / Wordpress  
 
-- 🚀 I’m currently learning React Native and Kotlin 
+- 🚀 I’m currently learning React Native and Kotlin with Jetpack compose 
 
 ## Links!! 🤔
 - 🎯 Portfolio site: [Portfolio](https://jebusdoodles.github.io/).
