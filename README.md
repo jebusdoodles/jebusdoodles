@@ -2,7 +2,7 @@
 
 I'm a Frontend Developer based in 🇲🇽 (Mexico) specializing in building (and occasionally designing) websites. I'm currently avaiable for web development projects.
 
-Skills: React js / Python / Wordpress  
+Skills: React js / Python / Kotlin
 
 - 🚀 I’m currently learning React Native and Kotlin with Jetpack compose 
 
