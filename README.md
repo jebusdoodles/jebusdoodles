@@ -1,8 +1,8 @@
-### Hi there 👋, My Name is Jesus 
+### Hello 👋, My Name is Jesus 
 
 I'm a Frontend Developer based in 🇲🇽 (Mexico) specializing in building (and occasionally designing) websites. I'm currently avaiable for web development projects.
 
-Skills: React js / Python / Kotlin
+Skills: React js / Flutter / Kotlin
 
 - 🚀 I’m currently learning React Native and Kotlin with Jetpack compose 
 
